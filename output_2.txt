@@ -1,0 +1,30 @@
+**PROBLEM UNDERSTANDING**
+The problem is asking us to find out how much a ball costs given that a bat and ball together cost ₹110, and the bat costs ₹100 more than the ball.
+
+**STEP-BY-STEP REASONING**
+
+1. Let's denote the cost of the ball as x.
+2. Since the bat costs ₹100 more than the ball, we can represent its cost as (x + 100).
+3. The total cost of the bat and the ball together is given as ₹110. So, we can set up the equation:
+   x + (x + 100) = 110
+4. Now, let's solve for x by combining like terms:
+   2x + 100 = 110
+5. Subtracting 100 from both sides gives us:
+   2x = 10
+6. Finally, dividing both sides by 2 yields the cost of the ball:
+
+**Verification**
+
+The solution is correct because we have used logical reasoning and mathematical operations (algebra) to find the value of x, which represents the cost of the ball.
+
+**SELF-CORRECTION**
+
+Upon reviewing the solution, I found that there are no logical mistakes. The equation 2x + 100 = 110 holds true for any value of x. However, let's check if this is mathematically correct by solving it again:
+
+2x = 10
+x = 5
+
+So, the ball actually costs ₹5.
+
+**FINAL ANSWER**
+The ball costs ₹5.
